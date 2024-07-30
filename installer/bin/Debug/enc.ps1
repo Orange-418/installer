@@ -1,0 +1,1 @@
+certutil -encode installer.exe util.txt
